@@ -3,6 +3,7 @@ My first project about Frauds Classification using YOLOv3 + library Alibi-Detect
 Detail about project. Project using model Variational Auto-Encoder to reconstructs input image and calculate error between input image and reconstruct image then classification. If error is greater than threshold, input image will be anomaly else normaly
 
 Link model train in Colab Google
+
 https://drive.google.com/drive/folders/1plC0eCBsQjXEM8cRoKtz1_9QEaFGLcT1?usp=sharing
 https://colab.research.google.com/drive/16c5Qq7IREp8mvSSQx-Tsh1G7leHRkGwj
 
